@@ -1,0 +1,36 @@
+body
+{
+  background-color: lightpink;
+  text-align: center;
+}
+
+h1
+{
+  font-size: 60px;
+}
+
+h2
+{
+  font-size: 40px;
+  font-family: cursive;
+  font-style: normal;
+}
+
+.przycisk
+{
+  background: transparent;
+  padding: 25px;
+  border: 5px solid #fff;
+  color: #fff;
+  transition: 0.5s;
+  font-size: 25px;
+}
+
+.przycisk:hover
+{
+  background: #fff;
+  color: grey;
+  transition: 0.5s;
+  cursor: pointer;
+  font-size: 30px;
+}

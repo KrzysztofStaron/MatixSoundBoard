@@ -1,0 +1,41 @@
+.pole
+{
+  background-color: red;
+  width: 175px;
+  height: 175px;
+  border: 3px solid black;
+  margin: 2px;
+  font-size: 150px;
+  opacity: 0.9;
+  float: left;
+  box-sizing: border-box;
+}
+
+.end{
+  width: 547px;
+  height: 547px;
+  background: #dda1aa;
+  padding: 0;
+  margin: 0;
+  font-size: 75px;
+  border: 5px solid black;
+}
+
+#pola
+{
+  width: 547px;
+  height: 547px;
+  box-sizing: border-box;
+  text-align: center;
+  align-items: center;
+  font-size: 75px;
+}
+.ba{width:500px;height:200px;font-size: 75px;position: relative;top:150px;margin:100px;text-align: center;border: 2px solid pink;}
+.ba:hover{font-size: 100px;transition: font-size 0.5s;}
+.ba:active{letter-spacing: 0.129em;transition: letter-spacing 0.2s;}
+
+#container
+{
+  transform: scale(0.6,0.6);
+  margin-right: 80%;
+}
